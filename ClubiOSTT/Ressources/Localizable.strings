@@ -1,0 +1,51 @@
+/* 
+  Localizable.strings
+  ClubiOSTT
+
+  Created by Kévin Empociello on 4/13/24.
+*/
+
+/** 
+ COMMON
+ */
+"common.now" = "Now";
+"common.continue" = "Continue";
+"common.ok" = "Ok";
+"common.OK" = "OK";
+"common.cancel" = "Cancel";
+"common.error" = "Error";
+"common.whoops" = "Whoops";
+"common.next" = "Next";
+"common.later" = "Later";
+"common.done" = "Done";
+"common.skip" = "Skip";
+"common.edit" = "Edit";
+"common.save" = "Save";
+"common.retry" = "Retry";
+"common.rename" = "Rename";
+"common.delete" = "Delete";
+"common.tryagain" = "Try again";
+"common.discard.alert.title" = "Discard changes ?";
+"common.discard.alert.message" = "If you go back now, you will lose any changes that you’ve made.";
+"common.discard.alert.back" = "Go back";
+"common.discard.alert.stay" = "Stay";
+"common.discard.alert.continue" = "Continue";
+"common.discard.alert.discard" = "Discard";
+"common.yes" = "Yes";
+
+/**
+ WELCOME
+ */
+"welcome.title" = "Monetize your content.";
+"welcome.legals" = "By continuing you agree to our
+Terms of Use and Privacy Policy";
+
+/**
+ CONTENT REQUEST LIST
+ */
+"contentRequestList.title" = "Requests";
+"contentRequestList.placeholder.title" = "Your Request List";
+"contentRequestList.placeholder.subtitle" = "Create a list of specific content that\nyour members can pay to request.";
+
+"contentRequestsList.error.generic" = "An error occured with your content request list, please try again later.";
+"contentRequestsList.error.cannotRetrieve" = "Cannot retrieve your request list at the moment, please retry.";
